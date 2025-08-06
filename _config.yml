@@ -1,35 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "yoojin96/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Yoojin Jeon, RN"
+description              : "Registered Nurse licensed in New York State | Hematology-Oncology and Neurosurgery experience"
+repository               : "yoojin96/yoojin96.github.io"
+google_scholar_stats_use_cdn : false  # Not needed for RN portfolio
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # (Optional) Add if you want traffic tracking, e.g., G-XXXXXXXXXX
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  # Optional: Add if using Google Search Console
+bing_site_verification   :  
+baidu_site_verification  :  
 
 # Site Author
 author:
   name             : "Yoojin Jeon"
-  avatar           : "images/photo.jpeg"
-  bio              : "Registered Nurse"
+  avatar           : "images/photo.jpeg"   # Update with your actual profile photo
+  bio              : "Registered Nurse (RN) | Hematology-Oncology & Neurosurgery"
   location         : "College Park, MD, USA"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  employer         : 
   email            : "hello.yoojinjeon@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  github           : "yoojin96"           # Your GitHub username
+  linkedin         : "linkedin.com/in/yoojin96"  # Replace with your LinkedIn URL
+
+# Unused academic fields (leave blank)
+  pubmed           : 
+  googlescholar    : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,27 +34,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  weibo           :
+  xing            :
+  youtube         :
+  wikipedia       :
 
 # Reading Files
 include:
@@ -97,14 +91,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -119,7 +111,6 @@ kramdown:
 
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -127,17 +118,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/New_York # Updated to your current timezone
 
 # Plugins
 plugins:
@@ -146,7 +134,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -154,9 +141,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
