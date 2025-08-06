@@ -42,7 +42,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 </div></div>
 
 # 🎓 Education
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNULogo2.png' alt="Seoul National University" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNULogo2.png' alt="Seoul National University" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Bachelor of Science in Nursing  
