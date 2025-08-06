@@ -48,7 +48,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
   </div>
   <div markdown="1">
   
-  ### Bachelor of Science in Nursing  
+  <h3>Bachelor of Science in Nursing</h3>
   **Seoul National University, Korea**  
   *Mar 2016 – Feb 2022*  
   - Completed a rigorous BSN program with a focus on evidence-based clinical practice and interdisciplinary collaboration.  
@@ -56,6 +56,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
   
   </div>
 </div>
+
 
 # 🏅 Licenses & Certifications
 - Registered Nurse (RN), New York State
