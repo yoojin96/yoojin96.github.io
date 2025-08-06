@@ -46,7 +46,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
   <div style="flex:0 0 auto;">
     <img src="images/SNULogo2.png" alt="Seoul National University" style="width:80px; height:auto;">
   </div>
-  <div>
+  <div markdown="1">
   
   ### Bachelor of Science in Nursing  
   **Seoul National University, Korea**  
