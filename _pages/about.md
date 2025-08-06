@@ -42,7 +42,16 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 </div></div>
 
 # 🎓 Education
-- *Mar 2016 – Feb 2022*: **Bachelor of Science in Nursing**, Seoul National University, Korea
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNULogo.png' alt="Seoul National University" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Bachelor of Science in Nursing  
+**Seoul National University, Korea**  
+*Mar 2016 – Feb 2022*  
+- Completed a rigorous BSN program with a focus on evidence-based clinical practice and interdisciplinary collaboration.  
+- Developed strong foundational skills in patient care, clinical assessment, and critical thinking.
+
+</div></div>
 
 # 🏅 Licenses & Certifications
 - Registered Nurse (RN), New York State
@@ -53,4 +62,4 @@ IV insertion, Phlebotomy, Pain management, Chemotherapy administration, Medicati
 
 # 📧 Contact
 - **Email**: hello.yoojinjeon@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yoojin96](https://linkedin.com/in/yoojin96)
+- **LinkedIn**: [linkedin.com/in/yoo-jin-jeon-a15992376](https://www.linkedin.com/in/yoo-jin-jeon-a15992376/)
