@@ -18,7 +18,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 - *Dec 2024*: Obtained New York State RN license.  
 
 # 🏥 Clinical Experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HYUMC</div><img src='images/photo.jpeg' alt="Hematology-Oncology" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HYUMC</div><img src='images/500x300.png' alt="Hematology-Oncology" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### RN, Hematology-Oncology (HYUMC – Seoul)  
