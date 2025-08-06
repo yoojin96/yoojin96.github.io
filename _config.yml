@@ -14,16 +14,16 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Yoojin Jeon"
+  name             : "Yoojin Jeon, RN"
   avatar           : "images/photo.jpeg"   # Update with your actual profile photo
-  bio              : "Registered Nurse (RN) | Hematology-Oncology & Neurosurgery"
+  bio              : "Hematology-Oncology & Neurosurgery"
   location         : "College Park, MD, USA"
   employer         : 
   email            : "hello.yoojinjeon@gmail.com"
-  github           : "yoojin96"           # Your GitHub username
-  linkedin         : "https://www.linkedin.com/in/yoo-jin-jeon-a15992376"  # Replace with your LinkedIn URL
+  github           : "yoojin96"
+  linkedin         : "https://www.linkedin.com/in/yoo-jin-jeon-a15992376"
 
-# Unused academic fields (leave blank)
+  # Unused academic fields (leave blank)
   pubmed           : 
   googlescholar    : 
   researchgate     : 
@@ -125,24 +125,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # Updated to your current timezone
+timezone: America/New_York
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-# HTML Compression
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+  - j
