@@ -42,7 +42,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 </div></div>
 
 # 🎓 Education
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNULogo.png' alt="Seoul National University" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SNULogo2.png' alt="Seoul National University" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Bachelor of Science in Nursing  
@@ -58,7 +58,23 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 - BLS (Basic Life Support)
 
 # 💡 Skills
-IV insertion, Phlebotomy, Pain management, Chemotherapy administration, Medication administration, Hospice care, Vital signs monitoring, Injection administration, NIBP monitoring, High-flow oxygen therapy, Infusion/syringe pump operation, Interdisciplinary communication, Collaboration
+
+### Clinical Skills
+- **IV Insertion & Phlebotomy** – Proficient in establishing IV lines and performing safe blood draws with minimal patient discomfort.  
+- **Chemotherapy Administration** – Experienced in IV, subcutaneous, and oral chemotherapy delivery while adhering to safety protocols.  
+- **Pain & Symptom Management** – Skilled in assessing and managing pain and treatment-related symptoms for oncology patients.  
+- **Advanced Resuscitation** – Competent in BLS and experienced in assisting with advanced resuscitation in emergency situations.
+
+### Patient Care & Support
+- **Palliative and Hospice Care** – Providing compassionate end-of-life care for patients and emotional support for families.  
+- **Nutrition & Medication Management** – Administering medications, L-tube feeding, and monitoring patient nutritional needs.  
+- **Vital Signs & Monitoring** – Accurate measurement and documentation of vital signs, NIBP, and oxygen therapy.  
+- **Patient & Family Education** – Guiding patients and families on post-treatment care and health management.
+
+### Technical & Administrative
+- **Electronic Health Records (EHR)** – Proficient in hospital EHR systems (BESTCare 2.0, HYUMC).  
+- **Infusion & Syringe Pumps** – Experienced in setting up and monitoring infusion and syringe pump therapies.  
+- **Interdisciplinary Collaboration** – Strong communication and teamwork skills for effective coordination with physicians, pharmacists, and allied health professionals.
 
 # 📧 Contact
 - **Email**: hello.yoojinjeon@gmail.com  
