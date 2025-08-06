@@ -15,7 +15,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 # 🔥 Recent Updates
 - *Aug 2024*: Completed six months in the Hematology-Oncology Unit (HYUMC), specializing in chemotherapy administration and palliative care.  
 - *Mar 2024*: Transitioned to oncology nursing, expanding clinical expertise in cancer treatment and advanced resuscitation techniques.  
-- *Dec 2024*: Obtained New York State RN license.  
+- *Jan 2024*: Obtained New York State RN license.  
 
 # 🏥 Clinical Experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HYUMC</div><img src='images/sample.jpg' alt="Hematology-Oncology" width="100%"></div></div>
