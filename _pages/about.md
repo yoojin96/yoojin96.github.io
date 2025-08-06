@@ -18,7 +18,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 - *Dec 2024*: Obtained New York State RN license.  
 
 # 🏥 Clinical Experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HYUMC</div><img src='images/sample.png' alt="Hematology-Oncology" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HYUMC</div><img src='images/sample.jpg' alt="Hematology-Oncology" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### RN, Hematology-Oncology (HYUMC – Seoul)  
@@ -30,7 +30,7 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EUMC</div><img src='images/EUMC.png' alt="Neurosurgery" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EUMC</div><img src='images/EUMC.jpg' alt="Neurosurgery" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### RN, Neurosurgery (EUMC – Seoul)  
