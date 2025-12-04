@@ -62,7 +62,7 @@ Hello! I am a registered nurse (RN) licensed in Maryland and New York State, wit
 # 🏅 Licenses & Certifications
 - Registered Nurse (RN), Maryland (Active) / New York State (Active)
 - BLS (Basic Life Support)
-- Youth Mental Health First Aid (MHFA), National Council for Mental Wellbeing
+- Youth Mental Health First Aid (MHFA)
 - ONS Cancer Basics (Oncology Nursing Society)
 
 # 💡 Skills
