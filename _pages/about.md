@@ -86,4 +86,4 @@ Hello! I am a registered nurse (RN) licensed in Maryland and New York State, wit
 
 # 📧 Contact
 - **Email**: hello.yoojinjeon@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yoo-jin-jeon-a15992376](https://www.linkedin.com/in/yoo-jin-jeon-a15992376/)
+- **LinkedIn**: [linkedin.com/in/yoo-jin-jeon-a15992376](www.linkedin.com/in/yoo-jin-jeon-a15992376)
