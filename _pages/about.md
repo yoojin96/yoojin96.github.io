@@ -14,7 +14,7 @@ Hello! I am a registered nurse (RN) licensed in Maryland and New York State, wit
 
 # 🔥 Recent Updates
 - *Dec 2025*: Completed ONS Cancer Basics.
-- *Jun 2025*: Completed the course and certified in Youth Mental Health First Aid (MHFA).
+- *Jun 2025*: Completed Youth Mental Health First Aid (MHFA) certification.
 - *Aug 2024*: Completed six months in the Hematology-Oncology Unit (HYUMC-Seoul), specializing in chemotherapy administration and palliative care.  
 - *Mar 2024*: Transitioned to oncology nursing, expanding clinical expertise in cancer treatment and advanced resuscitation techniques.  
 
