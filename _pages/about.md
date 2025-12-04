@@ -13,8 +13,8 @@ redirect_from:
 Hello! I am a registered nurse (RN) licensed in New York State, with clinical experience in neurosurgery and hematology-oncology. I am passionate about delivering patient-centered care, collaborating with multidisciplinary teams, and supporting patients and their families through both acute and long-term care needs. I am committed to continuing my growth in oncology nursing and palliative care.
 
 # 🔥 Recent Updates
-- *Aug 2024*: 
-- *Jun 2025*: Completed the course and certified in Youth
+- *Dec 2025*: Completed ONS Cancer Basics.
+- *Jun 2025*: Completed the course and certified in Youth Mental Health First Aid USA.
 - *Aug 2024*: Completed six months in the Hematology-Oncology Unit (HYUMC), specializing in chemotherapy administration and palliative care.  
 - *Mar 2024*: Transitioned to oncology nursing, expanding clinical expertise in cancer treatment and advanced resuscitation techniques.  
 - *Jan 2024*: Obtained New York State RN license.  
@@ -63,7 +63,8 @@ Hello! I am a registered nurse (RN) licensed in New York State, with clinical ex
 # 🏅 Licenses & Certifications
 - Registered Nurse (RN), New York State
 - BLS (Basic Life Support)
-- dfdf
+- Youth Mental Health First Aid USA
+- ONS Cancer Basics
 
 # 💡 Skills
 
